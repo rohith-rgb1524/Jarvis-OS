@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS OS - Intelligent Personal Desktop Assistant",
+  "description": "Futuristic command center and modular desktop assistant architecture for Windows 11 with voice, local Ollama brain, desktop automation, Power Mode research, and cybersecurity lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
